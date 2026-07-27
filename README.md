@@ -4,7 +4,7 @@
 
 小红书 **AI 工具向** 编稿 Skill（真实测评 + 场景干货）。
 
-适用于 OpenCode / Claude Code / Cursor 等支持 Agent Skills 的工具。
+适用于 ChatGPT / OpenCode / Claude Code 等支持 Agent Skills 的工具。
 
 ## 垂直方向
 
@@ -18,7 +18,7 @@
 npx skills add mini20201314-crypto/xhs-ai-tools-writer --skill xhs-ai-tools-writer
 ```
 
-或把本仓库 `skills/` 路径加入 OpenCode：
+或把本仓库 `skills/` 路径复制给 ChatGPT / OpenCode / Claude Code：
 
 ```json
 {
