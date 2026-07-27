@@ -46,7 +46,7 @@ composed/                     # 融合决策记录
 ## 使用前
 
 1. 编辑 `skills/xhs-ai-tools-writer/refs/persona.md` 填入你的账号人设
-2. 对 Agent 说：`用 xhs-ai-tools-writer 写一篇 Cursor 测评`
+2. 对 Agent 说：`用 xhs-ai-tools-writer 写一篇 ChatGPT 测评`
 
 ## 合成自（精华）
 
