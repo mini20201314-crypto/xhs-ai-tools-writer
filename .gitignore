@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+node_modules/
+.opencode/
+**/secrets*
+output/drafts/*
+!output/drafts/.gitkeep
